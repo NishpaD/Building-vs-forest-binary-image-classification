@@ -1,0 +1,6 @@
+The dataset is collected from Kaagle: https://www.kaggle.com/datasets/mhmmadalewi/buildings-vs-forests 
+It has 2 directories: Training and Testing
+Inside there there building and forest images.
+Total Images ~ 5000
+Training ~ 4000
+Testing ~ 1000
