@@ -1,4 +1,4 @@
-# Buildings vs Forest Image Classification (CNN & ResNet50)
+# Deep Learning-Based Image Classification for Urban vs Natural Scene Detection (CNN & ResNet50)
 
 ## Description
 This project focuses on building a deep learning model to classify images as **buildings or forests** using a dataset of approximately **5,000 images**. The goal is to develop and optimize image classification models using both custom CNN architecture and transfer learning techniques.
